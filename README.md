@@ -27,6 +27,6 @@ Demonstrates the `rpartition()` function to split a string into three parts, sta
 ### Split Function Using Splitlines: [`split_string_using_splitlines.py`](https://github.com/techbeamers/python-string-examples/blob/main/python-string-split-examples/split_string_using_splitlines.py)
 Shows how to use the `splitlines()` function to split a string into a list of lines. Particularly helpful when dealing with multiline strings or text data.
 
-For more detailed explanations and additional examples, refer to [TechBeamers - An In-depth Guide to Split a String in Python](https://www.techbeamers.com/python-string-splitting/#h-split-string-by-rpartition).
+For more detailed explanations and additional examples, refer to [TechBeamers - An In-depth Guide to Split a String in Python](https://www.techbeamers.com/python-string-splitting/).
 
 Feel free to explore each script for usage instructions.
